@@ -1,1 +1,1 @@
-# progremmers-lect
+# progremmers-lect-prac

@@ -1,32 +1,65 @@
+- 인텔리j 6개월 쿠폰 튜토리얼
+https://built.tistory.com/86
+
 Hello Programmers
 - 토비스프링1(스프링 철학)
 - 개구리책(스프링부트)
 - 포도책(분산환경)
 - real mysql 1,2
 
-1-1
+1-1 (2026.06.04)
 - lect -> 임의제목_pra 레포지토리
 [과제1] -> 모두 필수
 - git -> github - repository : 오늘 수업자료 업로드
 - commit? push?
-- 오늘수업자료 업로드 => 복습(os, git, jdk, java)
+- 오늘수업자료 업로드 => 복습(os, git, jdk)
 
-[과제2] -> 모두 필수
+[과제2] -> 모두 필수 : java
 -> java : 프로젝트 생성, *진법
 
 
-[과제3] ->  -> 자판기 : 반복문 // 가능하신분들만
+[과제3]  -> 자판기, 조건문 or while true // 가능하신분들만
  static final int COKE = 500, CIDER = 700, FANTA = 300, WATER = 200;
 
  public static void printMenu(int totalMoney) {
         System.out.println("================================= 자판기 ================================");
         System.out.println("[1]콜라-500원 [2]사이다-700원 [3]환타-300원 [4]물-200원 [5]돈넣기 [6]종료");
         System.out.println("현재 금액 : " + totalMoney + "원");
-        System.out.println("==========================================================================");
+       System.out.println("==========================================================================");
  }
 
-// * 필수 : 운영체제 -> cpu가 메모리의 값을 어떻게 레지스트리에 적재해서 돌아가는지 ai를 사용 (주말)
+// * 필수 : 운영체제 -> cpu가 메모리의 값을 어떻게 레지스트리에 적재해서 돌아가는지 ai를 사용 **(주말)
 
 [ai]
 과제 -> 자판기, 가계부,... x
 이론 공부 -> ㅇ
+
+
+1-2 260606
+* 상황에 맞게 진행해주세요.
+* 수업 끝나기전 진행했던 내용 github링크 제출해주세요.
+* 간력하게 정리하셔서 금일 학습내용 DM메시지로 깃헙 전달, 블로그 링크
+
+-> 과제1
+문법 복습 ~loop
+
+-> 과제2
+자판기 예제
+어려웠던분 : 한번 똑같이 타이핑
+쉬웠던분 : 완전히 새로 
+
+-> 과제2-1
+이론 : 운영체제 학습
+
+-> 과제3
+가계부1(collections)
+
+-> 과제4
+가계부2(file i/o)
+
+-> 개발 과제완료시
+알고리즘 문제풀이를 진행해주세요.
+[PCCE] 
+https://school.programmers.co.kr/learn/challenges?order=recent&page=1&partIds=56388
+[PCCP]
+https://school.programmers.co.kr/learn/challenges?order=recent&page=1&partIds=56389
