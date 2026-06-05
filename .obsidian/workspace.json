@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "과제/자바-가계부 과제-2.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "자바-가계부 과제-2"
+              "title": "README"
             }
           }
         ]
@@ -185,8 +185,8 @@
   },
   "active": "c9b9e599e2c9d279",
   "lastOpenFiles": [
-    "hello.md",
     "과제/자바-가계부 과제-2.md",
+    "hello.md",
     "과제/자바-가계부 과제.md",
     "운영체제/2. 운영체제 시작하기.md",
     "운영체제/운영체제_1.png",
