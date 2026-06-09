@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "운영체제/3.프로세스와 스레드.md",
+                "file": "과제/자바-달팽이 경주 게임 과제(멀티스레드).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.프로세스와 스레드"
+              "title": "자바-달팽이 경주 게임 과제(멀티스레드)"
             }
           }
         ]
@@ -185,17 +185,29 @@
   },
   "active": "c9b9e599e2c9d279",
   "lastOpenFiles": [
+    "java-part-2/src/main/java/org/updown/Updown.java",
+    "java-part-2/src/main/java/org/updown",
+    "java-part-2/src/main/java/org/snailRace/Snail.java",
+    "java-part-2/src/main/java/org/snailRace/Race.java",
+    "java-part-2/src/main/java/org/snailRace/Main.java",
+    "java-part-2/src/main/java/org/snailRace",
+    "java-part-2/build/tmp/compileJava/compileTransaction/stash-dir/Snail.class.uniqueId1",
+    "java-part-2/build/tmp/compileJava/compileTransaction/stash-dir/Race.class.uniqueId0",
+    "java-part-2/build/tmp/compileJava/compileTransaction/stash-dir/Main.class.uniqueId2",
+    "java-part-2/build/tmp/compileJava/compileTransaction/stash-dir",
+    "java-part-2/build/tmp/compileJava/compileTransaction/backup-dir",
+    "과제/자바-숫자 업다운 게임 과제.md",
+    "과제/자바-달팽이 경주 게임 과제(멀티스레드).md",
+    "운영체제/3.프로세스와 스레드.md",
+    "운영체제/운영체제_1.png",
     "과제/자바-빙고 게임 과제.md",
     "과제/자바-회원관리 프로그램(배열).md",
     "README.md",
-    "운영체제/3.프로세스와 스레드.md",
     "과제/자바-가계부 과제-2.md",
     "hello.md",
     "과제/자바-가계부 과제.md",
     "운영체제/2. 운영체제 시작하기.md",
-    "운영체제/운영체제_1.png",
     "운영체제/1. 컴퓨터 구조의 큰그림.md",
-    "운영체제/CPU의 동작.md",
-    "과제"
+    "운영체제/CPU의 동작.md"
   ]
 }
