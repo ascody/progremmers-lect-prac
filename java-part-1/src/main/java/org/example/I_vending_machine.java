@@ -12,30 +12,30 @@ public class I_vending_machine {
 
     static final int COKE = 500, CIDER = 700, FANTA = 300, WATER = 200;
 
-    static void printMenu(int totalMoney){
+    public static void printMenu(int totalMoney){
         System.out.println("=============================== 자판기 ==============================");
         System.out.println("[1]콜라-500원 [2]사이다-700원 [3]환타-300원 [4]물-200원 [5]돈넣기 [6]종료");
         System.out.println("현재 금액 : " + totalMoney + "원");
         System.out.println("======================================================================");
     }
 
-    static int getChoice(){
+    public static int getChoice(){
         Scanner sc = new Scanner(System.in);
         System.out.println("원하는 메뉴를 선택하세요.");
         return sc.nextInt();
     }
 
-    static int getMoney(){
+    public static int getMoney(){
         Scanner sc = new Scanner(System.in);
         System.out.println("돈을 넣으세요.");
         return sc.nextInt();
     }
 
-    static int calcMoney(int totalMoney, int price){
+    public static int calcMoney(int totalMoney, int price){
         return totalMoney - price;
     }
 
-    static void calcMoneyException() {
+    public static void calcMoneyException() {
         System.out.println("잔돈이 부족합니다.");
     }
 

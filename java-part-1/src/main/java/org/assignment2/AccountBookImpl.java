@@ -8,7 +8,7 @@ public class AccountBookImpl implements AccountBook {
     private final String DIR = "accountbook"; // 저장 폴더
     private Scanner sc = new Scanner(System.in);
 
-    AccountBookImpl() {
+    public AccountBookImpl() {
         File folder = new File(DIR);
         if (!folder.exists()) folder.mkdir(); // 폴더 없으면 생성
     }

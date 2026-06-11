@@ -1,0 +1,20 @@
+package org.example;
+
+public class F_person5 {
+    String name;
+    int age;
+
+    public F_person5() {
+//        F_person5("John", 25); // 에러 반드시 this로 호출해야 함.
+        this("John", 25);
+    }
+
+    public F_person5(String name, int age) {
+        this.name = name;
+        this.age = age;
+    }
+
+    public void display() {
+        System.out.println(this.name + " " + this.age);
+    }
+}
