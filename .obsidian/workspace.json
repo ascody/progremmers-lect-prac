@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "과제/6_11 자바-회원 관리 만들기 (객체지향 · 인터페이스).md",
+                "file": "운영체제/4.CPU 스케줄링-2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6_11 자바-회원 관리 만들기 (객체지향 · 인터페이스)"
+              "title": "4.CPU 스케줄링-2"
             }
           }
         ]
@@ -185,23 +185,26 @@
   },
   "active": "c9b9e599e2c9d279",
   "lastOpenFiles": [
-    "과제/6_11 자바-회원 관리 만들기 (객체지향 · 추상 클래스).md",
+    "과제/6_12 자바-ArrayList 과제.md",
+    "운영체제/4.CPU 스케줄링-2.md",
+    "과제코드/MyLinkedList/build/tmp/compileJava/compileTransaction/stash-dir/MyLinkedListTest.class.uniqueId1",
+    "과제코드/MyLinkedList/build/tmp/compileJava/compileTransaction/stash-dir/MyLinkedList.class.uniqueId0",
+    "과제코드/MyLinkedList/build/tmp/compileJava/compileTransaction/stash-dir/MyLinkedList$Node.class.uniqueId2",
+    "과제코드/MyLinkedList/build/tmp/compileJava/compileTransaction/stash-dir",
+    "과제코드/MyLinkedList/build/tmp/compileJava/compileTransaction/backup-dir",
+    "과제코드/MyLinkedList/build/tmp/compileJava/compileTransaction",
+    "과제코드/MyLinkedList/build/tmp/compileJava/previous-compilation-data.bin",
+    "과제코드/MyLinkedList/build/classes/java/main/MyLinkedList.class",
+    "과제코드/MyLinkedList/build/classes/java/main/MyLinkedList$Node.class",
+    "과제코드/MyLinkedList/build/classes/java/main/MyLinkedListTest.class",
+    "과제/6_12 자바-LinkedList 과제.md",
+    "hello.md",
+    "README.md",
     "과제/6_11 자바-회원 관리 만들기 (객체지향 · 인터페이스).md",
+    "과제/6_11 자바-회원 관리 만들기 (객체지향 · 추상 클래스).md",
     "과제/6_11 자바-자판기 만들기 (객체지향 · 인터페이스).md",
     "과제/6_11 자바-자판기 만들기 (객체지향 · 추상 클래스).md",
-    "hello.md",
-    "과제코드/vending_machine_with_abstract/src/main/java/Start.java",
-    "java-part-2/src/main/java/org/example/M_water.java",
-    "java-part-2/src/main/java/org/example/M_vending_machine.java",
-    "java-part-2/src/main/java/org/example/M_start.java",
-    "java-part-2/src/main/java/org/example/M_interface.java",
-    "java-part-2/src/main/java/org/example/M_fanta.java",
-    "java-part-2/src/main/java/org/example/M_drink.java",
-    "java-part-2/src/main/java/org/example/M_coke.java",
-    "java-part-2/src/main/java/org/example/M_cider.java",
-    "java-part-2/src/main/java/org/example/L_water.java",
     "과제/6_06 자바-가계부 과제-2.md",
-    "README.md",
     "과제/6_08 자바-가계부 과제.md",
     "과제/6_09 자바-달팽이 경주 게임 과제(멀티스레드).md",
     "과제/6_06 자바-회원관리 프로그램(배열).md",
