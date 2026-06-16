@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        MyHashMap hashMap = new MyHashMap();
+        MyHashMap<String, Integer> hashMap = new MyHashMap<>();
 
         hashMap.put("apple", 100);
         System.out.println(hashMap.get("apple"));
