@@ -36,7 +36,11 @@ public class Main {
                     Member m = (grade == 2)
                             ? new VipMember(name, email, phone)
                             : new NormalMember(name, email, phone);
-                    manager.add(m);
+                    try {
+                        manager.add(m);
+                    } catch (DuplicateEmailException e) {
+                        throw new RuntimeException(e);
+                    }
                     System.out.println("추가되었습니다.");
                     break;
                 }

@@ -1,6 +1,6 @@
 public enum PricePlan {
     LITE(10), BASIC(20), PREMIUM(30);
-    private int capacity;
+    private final int capacity;
     PricePlan(int capacity) {
         this.capacity = capacity;
     }
@@ -9,9 +9,9 @@ public enum PricePlan {
     }
     public static PricePlan from(int choice) {
         return switch (choice) {
-            case 10 -> LITE;
-            case 20 -> BASIC;
-            case 30 -> PREMIUM;
+            case 1 -> LITE;
+            case 2 -> BASIC;
+            case 3 -> PREMIUM;
             default -> null;
         };
     }
