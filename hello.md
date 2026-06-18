@@ -8,6 +8,21 @@
 
 ---
 <details open>
+<summary><b>3-4 (2026.06.18)</b></summary>
+
+- **과제1 — 복습**
+  - 필수 : 스레드 과제 ~ 2번까지 -> 미비됐을 경우 우선
+  - 필수 : 스레드 3.wait&notify, 4.기아 현상
+  - 필수 : 오늘 학습 내용 복습 java-part-3 E(File I/O), F(가계부 컬렉션 버전)
+  - 필수 : mysql 설치
+- **과제2 — 실습**
+  - (필수)가계부 : file I/O
+  - (선택)회원관리 : file I/O
+- **과제3 — 알고리즘**
+
+</details>
+
+<details>
 <summary><b>3-3 (2026.06.17)</b></summary>
 
 - **과제1 — 복습**
