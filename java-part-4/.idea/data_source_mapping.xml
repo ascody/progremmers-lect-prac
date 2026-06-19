@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourcePerFileMappings">
+    <file url="file://$PROJECT_DIR$/src/main/resources/db.sql" value="f4fb8b8a-4843-4880-be73-0f1146731e73" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/groupby.sql" value="f4fb8b8a-4843-4880-be73-0f1146731e73" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/jdbc.sql" value="f4fb8b8a-4843-4880-be73-0f1146731e73" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/join.sql" value="f4fb8b8a-4843-4880-be73-0f1146731e73" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/set.sql" value="f4fb8b8a-4843-4880-be73-0f1146731e73" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/subquery.sql" value="f4fb8b8a-4843-4880-be73-0f1146731e73" />
+  </component>
+</project>
