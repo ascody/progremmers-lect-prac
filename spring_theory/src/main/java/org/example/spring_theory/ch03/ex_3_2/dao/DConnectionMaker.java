@@ -1,4 +1,4 @@
-package org.example.spring_theory.ch01.ex_1_5.dao;
+package org.example.spring_theory.ch03.ex_3_2.dao;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

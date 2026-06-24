@@ -1,10 +1,10 @@
-package org.example.spring_theory.ch01.ex_1_5.dao;
+package org.example.spring_theory.ch03.ex_3_1.dao;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 
-public class DConnectionMaker implements SimpleConnectionMaker {
+public class NConnectionMaker implements SimpleConnectionMaker {
     @Override
     public Connection makeNewConnection() throws ClassNotFoundException, SQLException {
         Class.forName("com.mysql.cj.jdbc.Driver");

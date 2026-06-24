@@ -1,6 +1,7 @@
-package org.example.spring_theory.ch01.ex_1_5.dao;
+package org.example.spring_theory.ch02.ex_2_1.dao;
 
-import com.example.spring.springtheory.ch01.ex_1_1.domain.User;
+
+import org.example.spring_theory.ch02.ex_2_1.domain.User;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
@@ -51,6 +52,32 @@ public class UserDAO {
             return user;
         }
 
+    }
+
+    // 테스트 시작 전에 호출해 DB를 깨끗한 상태로 만드는 용도
+    public void deleteAll() throws SQLException, ClassNotFoundException {
+
+        String query = "DELETE FROM users";
+
+        try (
+                Connection conn = simpleConnectionMaker.makeNewConnection();
+                PreparedStatement pstmt = conn.prepareStatement(query);
+        ) {
+            pstmt.executeUpdate();
+        }
+    }
+
+    public int getCount() throws ClassNotFoundException, SQLException {
+        String query = "SELECT COUNT(*) FROM users";
+
+        try (
+                Connection conn = simpleConnectionMaker.makeNewConnection();
+                PreparedStatement pstmt = conn.prepareStatement(query);
+                ResultSet resultSet = pstmt.executeQuery();
+        ) {
+            resultSet.next();
+            return resultSet.getInt(1);
+        }
     }
 
 }
