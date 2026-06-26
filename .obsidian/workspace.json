@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "과제/자바/자바-람다.md",
+                "file": "과제/스프링이론/5.전략패턴_리팩토링.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "자바-람다"
+              "title": "5.전략패턴_리팩토링"
             }
           }
         ]
@@ -185,6 +185,8 @@
   },
   "active": "c9b9e599e2c9d279",
   "lastOpenFiles": [
+    "과제/자바/자바-람다.md",
+    "과제/스프링이론/5.전략패턴_리팩토링.md",
     "과제코드/test_code/build/test-results/test/binary/results-generic.bin",
     "과제코드/test_code/build/test-results/test/binary/in-progress-results-generic.bin",
     "과제코드/test_code/build/reports/tests/test/xnKFVVhHFXU/habN1Jv3HzQ.html",
@@ -195,10 +197,8 @@
     "과제코드/test_code/src/main/java/org/example/test_code/AppConfig.java",
     "과제코드/test_code/build/reports/tests/test/xnKFVVhHFXU/4zvF7wP9XwE.html",
     "과제코드/test_code/build/tmp/compileTestJava/compileTransaction/stash-dir/ProductDaoTest$2.class.uniqueId2",
-    "과제코드/test_code/build/tmp/compileTestJava/compileTransaction/stash-dir/ProductDaoTest.class.uniqueId1",
     "과제코드/test_code/HELP.md",
     "과제/자바/자바-스트림.md",
-    "과제/자바/자바-람다.md",
     "과제/스프링이론/3-2.싱글톤_심화.md",
     "과제/스프링이론/4.테스트코드.md",
     "hello.md",
