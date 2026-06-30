@@ -4,7 +4,8 @@ public class Main {
     static void main() {
         System.out.println("===== A, B =====");
 
-        // A-3: 다형성과 생성자 주입으로 인해 가능
+        // A, B
+        // 다형성과 생성자 주입으로 인해 가능
         NotificationService service1 = new NotificationService(new EmailNotificationSender());
         service1.notifyUser("홍길동", "Hello!");
 
@@ -16,7 +17,7 @@ public class Main {
 
 
         System.out.println("\n===== C =====");
-        // C-2
+        // C
         NotificationSender service4 =
                 new TimingNotificationSender(       // ③ 가장 바깥: 전체 소요 시간 측정
                         new LoggingNotificationSender(  // ② 로그 남기고
@@ -24,6 +25,14 @@ public class Main {
                                         new FlakyEmailSender())));// (실제 발송 대상)
 
         new NotificationService(service4).notifyUser("user@test.com", "안녕하세요");
+
+        NotificationSender service4_1 =
+                new TimingNotificationSender(       // ③ 가장 바깥: 전체 소요 시간 측정
+                        new RetryNotificationSender(  // ② 로그 남기고
+                                new LoggingNotificationSender(// ① 실패하면 재시도하며
+                                        new FlakyEmailSender())));// (실제 발송 대상)
+
+        new NotificationService(service4_1).notifyUser("user@test.com", "안녕하세요");
 
         System.out.println("\n===== D =====");
         // D
