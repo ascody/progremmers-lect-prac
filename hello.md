@@ -8,6 +8,98 @@
 
 ---
 <details open>
+<summary><b>5-2 (2026.06.30)</b></summary>
+
+- **과제1 — 복습**
+  - 필수 : 수업내용 복습
+- **과제2 — 실습**
+  - (필수)스프링 : 7.추상화_데코레이션.md
+- **과제3 — 알고리즘**
+
+</details>
+
+<details>
+<summary><b>5-1 (2026.06.29)</b></summary>
+
+- **과제1 — 복습**
+  - 필수 : 수업내용 복습
+- **과제2 — 실습**
+  - (필수)스프링 : 6.예외.md
+  - (필수)PBL : Stage 1 — Java 기초
+- **과제3 — 알고리즘**
+
+</details>
+
+<details>
+<summary><b>4-4 (2026.06.26)</b></summary>
+
+- **과제1 — 복습**
+  - 필수 : 수업내용 복습
+- **과제2 — 실습**
+  - (필수)스프링 : 5.전략패턴_리팩토링.md
+  - (필수)미비된 부분 -> 학습
+- **과제3 — 알고리즘**
+
+</details>
+
+<details>
+<summary><b>4-3 (2026.06.24)</b></summary>
+
+- **과제1 — 복습**
+  - 필수 : 수업내용 복습
+  - 필수 : 자바에서 미비된 부분 -> 학습
+- **과제2 — 실습**
+  - (필수)자바 : 람다
+  - (필수)자바 : 스트림
+  - (필수)스프링 : 테스트코드
+  - (필수)[SQL 고득점 KIT](https://school.programmers.co.kr/learn/challenges?tab=sql_practice_kit)
+- **과제3 — 알고리즘**
+
+</details>
+
+<details>
+<summary><b>4-2 (2026.06.23)</b></summary>
+
+- **과제1 — 복습**
+  - 필수 : 수업내용 복습
+  - 필수 : 자바에서 미비된 부분 -> 학습
+- **과제2 — 실습**
+  - (필수)스프링 : 제어의 역전
+  - (필수)스프링 : 싱글톤 기본
+  - (필수)스프링 : 싱글톤 심화
+  - (필수)[SQL 고득점 KIT](https://school.programmers.co.kr/learn/challenges?tab=sql_practice_kit)
+- **과제3 — 알고리즘**
+
+</details>
+
+<details>
+<summary><b>4-1 (2026.06.22)</b></summary>
+
+- **과제1 — 복습**
+  - 필수 : 수업예제 복습
+  - 필수 : 자바에서 미비된 부분 -> 학습
+- **과제2 — 실습**
+  - (필수)SOLID 5원칙 익히기 (나쁜 코드를 좋은 코드로 리팩터링하기)
+  - (필수)[SQL 고득점 KIT](https://school.programmers.co.kr/learn/challenges?tab=sql_practice_kit)
+- **과제3 — 알고리즘**
+
+</details>
+
+<details>
+<summary><b>3-5 (2026.06.19)</b></summary>
+
+- **과제1 — 복습**
+  - 선택 : 가계부 file I/O 복습
+  - 필수 : database 과제 진행(어디까지 진행할지. 번호는 각자 맞게 설정)
+  - 필수 : 오늘 학습 내용 복습 java-part-4 : A
+- **과제2 — 실습**
+  - (필수)회원 관리에 DB 연결하기 
+  - (선택)게시판
+- **과제3 — 알고리즘**
+
+</details>
+
+<details>
 <summary><b>3-4 (2026.06.18)</b></summary>
 
 - **과제1 — 복습**
